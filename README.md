@@ -39,12 +39,14 @@ python3 -m pip install -r requirements.txt
 
 ## 免責事項　/ Disclaimer
 日本語
+
 本プロジェクトは教育・研究目的で公開しています。
 投資助言を目的としたものではなく、将来の成果を保証するものでもありません。
 本ツールおよび出力結果をもとに投資判断を行う場合は、利用者自身の責任で行ってください。
 作者はいかなる損害についても責任を負いません。
 
 English
+
 This project is for educational and research purposes only.
 It does not constitute investment advice, nor does it guarantee future performance.
 Users are solely responsible for any decisions made based on this code or its output.
