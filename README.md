@@ -40,14 +40,22 @@ python3 -m pip install -r requirements.txt
 ## 免責事項/Disclaimer
 日本語
 
-本プロジェクトは教育・研究目的で公開しています。
-投資助言を目的としたものではなく、将来の成果を保証するものでもありません。
-本ツールおよび出力結果をもとに投資判断を行う場合は、利用者自身の責任で行ってください。
-作者はいかなる損害についても責任を負いません。
+本プロジェクトは、教育・研究目的で公開されています。
+本ツールおよびその出力結果は、金融商品取引法上の投資助言・勧誘・推奨を目的としたものではありません。
+株価、経済指標、CAGRなどの分析結果は過去のデータに基づくものであり、
+将来の投資成果やリターンを保証・示唆するものではありません。
+利用者が本プログラムまたはその結果をもとに行ういかなる投資行為についても、
+その判断および結果の責任はすべて利用者本人に帰属します。
+本プロジェクトの作者は、本ソフトウェアの利用または結果に起因する
+いかなる損害・損失についても一切の責任を負いません。
+また、本ツールを第三者への投資勧誘・販売促進などの目的で利用することを禁止します。
 
 English
 
-This project is for educational and research purposes only.
-It does not constitute investment advice, nor does it guarantee future performance.
-Users are solely responsible for any decisions made based on this code or its output.
+This project is provided for educational and research purposes only.
+It does not constitute investment advice, recommendation, or solicitation under any financial regulation (including the Financial Instruments and Exchange Act of Japan).
+All analyses, predictions, or CAGR calculations are based on historical data, and
+no guarantee or implication of future investment performance is made or intended.
+Users are solely responsible for any financial decisions made based on the code or output of this project.
 The author assumes no liability for any loss or damage resulting from its use.
+This project must not be used for financial promotion, investment solicitation, or commercial advisory purposes.
