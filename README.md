@@ -1,6 +1,6 @@
 # NASDAQ-100 CAGR 計算・予測ノートブック
 
-このプロジェクトは、NASDAQ-100 の構成銘柄を取得し、年平均成長率（CAGR）を計算するとともに、機械学習モデルで将来の CAGR を予測する Jupyter Notebook を提供します。可視化や Excel 出力を通じて、銘柄の成長性を直感的に把握できるようにしています。
+このプロジェクトは、NASDAQ-100 の構成銘柄を取得し、年平均成長率（CAGR）を計算するとともに、機械学習モデルで将来の CAGR を予測する Jupyter Notebook を提供します。可視化や Excel 出力の機能もあります。
 
 ## 主な機能
 
@@ -37,7 +37,7 @@ python3 -m pip install -r requirements.txt
    - 中間結果は `cagr_data.xlsx`、予測結果は `cagr_prediction_data.xlsx` に保存されます。
    - Plotly のグラフはブラウザ表示に対応した Jupyter フロントエンドでの実行を想定しています。
 
-## 免責事項　/  Disclaimer
+## 免責事項/Disclaimer
 日本語
 
 本プロジェクトは教育・研究目的で公開しています。
