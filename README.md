@@ -37,7 +37,15 @@ python3 -m pip install -r requirements.txt
    - 中間結果は `cagr_data.xlsx`、予測結果は `cagr_prediction_data.xlsx` に保存されます。
    - Plotly のグラフはブラウザ表示に対応した Jupyter フロントエンドでの実行を想定しています。
 
-## 備考
+## 免責事項　/ Disclaimer
+日本語
+本プロジェクトは教育・研究目的で公開しています。
+投資助言を目的としたものではなく、将来の成果を保証するものでもありません。
+本ツールおよび出力結果をもとに投資判断を行う場合は、利用者自身の責任で行ってください。
+作者はいかなる損害についても責任を負いません。
 
-- NASDAQ-100 全銘柄の全期間データを取得するため、実行には一定の時間がかかります。
-- 機械学習モデルの特徴量やハイパーパラメータは Notebook 内で調整可能です。カスタマイズしてさまざまな分析を試してみてください。
+English
+This project is for educational and research purposes only.
+It does not constitute investment advice, nor does it guarantee future performance.
+Users are solely responsible for any decisions made based on this code or its output.
+The author assumes no liability for any loss or damage resulting from its use.
