@@ -46,3 +46,9 @@ env/
 bin/
 include/
 pyvenv.cfg
+
+# Generated data files
+data/*.xlsx
+data/*.png
+cagr_data.xlsx
+cagr_prediction_data.xlsx
