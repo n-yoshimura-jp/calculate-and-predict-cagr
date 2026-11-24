@@ -57,3 +57,9 @@ data/*.xlsx
 data/*.png
 cagr_data.xlsx
 cagr_prediction_data.xlsx
+
+# Trained models (generate with `uv run cagr-train`)
+models/
+
+# Local usage guide
+usage_guide.txt
