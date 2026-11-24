@@ -30,6 +30,11 @@ ENV/
 env/
 .env/
 
+# Environment variables and secrets
+.env
+.env.*
+*.env
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
@@ -46,3 +51,15 @@ env/
 bin/
 include/
 pyvenv.cfg
+
+# Generated data files
+data/*.xlsx
+data/*.png
+cagr_data.xlsx
+cagr_prediction_data.xlsx
+
+# Trained models (generate with `uv run cagr-train`)
+models/
+
+# Local usage guide
+usage_guide.txt
